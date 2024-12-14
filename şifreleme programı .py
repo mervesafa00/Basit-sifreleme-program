@@ -12,7 +12,7 @@ while sayac!=0:
         if passwd == password:
             print("Hoş geldiniz")
         else:
-            print(f"Şifre Yanlış , kalan deneme hakkınız {sayac}")
+            print(f"Şifre Yanlış,kalan deneme hakkınız {sayac}")
 
 
 
